@@ -9,7 +9,7 @@
 
 ---
 
-## 🧠 The Problem
+## The Problem
 
 Every day, students sit down to study alone — and quietly give up on problems they almost understood. A student reads a problem, stares at it for four minutes, starts writing, erases it, opens YouTube, and doesn't come back.
 
@@ -21,7 +21,7 @@ StuckPoint lives in that gap.
 
 ---
 
-## 💡 What It Does
+## What It Does
 
 StuckPoint watches **how a student behaves** on a problem — not what they submit — and intervenes at the exact moment they're about to disengage.
 
