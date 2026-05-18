@@ -80,7 +80,7 @@ The student can dismiss any hint. StuckPoint never forces help.
 
 | Layer | Tool |
 |---|---|
-| Frontend | Vanilla HTML, CSS, JavaScript — zero dependencies |
+| Frontend | HTML, CSS, JavaScript — zero dependencies |
 | AI | Google Gemini 1.5 Flash (v1beta endpoint) |
 | PDF extraction | PDF.js (CDN) |
 | OCR | Tesseract.js (CDN) |
